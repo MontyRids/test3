@@ -80,3 +80,21 @@ body.stats-page h1 {
 .pdf-card a:hover {
   text-decoration: underline;
 }
+
+/* Mechanics page style */
+body.mechanics-page {
+  background-color: #e0f7fa; /* light cyan */
+}
+
+body.mechanics-page h1 {
+  color: #00bcd4; /* bright cyan */
+}
+
+/* Pure maths page style */
+body.pure-page {
+  background-color: #f3e5f5; /* light purple */
+}
+
+body.pure-page h1 {
+  color: #9c27b0; /* deep purple */
+}
