@@ -98,3 +98,18 @@ body.pure-page {
 body.pure-page h1 {
   color: #9c27b0; /* deep purple */
 }
+/* Stats page card titles */
+body.stats-page .pdf-card h2 {
+  color: #ffbf00; /* yellow */
+}
+
+/* Mechanics page card titles */
+body.mechanics-page .pdf-card h2 {
+  color: #00bcd4; /* cyan */
+}
+
+/* Pure maths page card titles */
+body.pure-page .pdf-card h2 {
+  color: #9c27b0; /* purple */
+}
+
