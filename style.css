@@ -45,7 +45,7 @@ body.stats-page {
 }
 
 body.stats-page h1 {
-  color: #ffbf00;
+  color: #ffffff;
 }
 
 .pdf-grid {
@@ -96,7 +96,7 @@ body.pure-page {
 }
 
 body.pure-page h1 {
-  color: #9c27b0; /* deep purple */
+  color: #ffffff; /* deep purple */
 }
 /* Stats page card titles */
 body.stats-page .pdf-card h2 {
